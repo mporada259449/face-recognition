@@ -2,4 +2,5 @@ venv/
 *.zip
 data/
 notebooks/*.pkl
+notebooks/*.txt
 notebooks_old/
